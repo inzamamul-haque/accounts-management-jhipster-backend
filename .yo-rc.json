@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ibcs.accounts"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "accounts_management_jhipster",
+    "packageName": "com.ibcs.accounts",
+    "packageFolder": "com/ibcs/accounts",
+    "serverPort": "9006",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjA1OWNiNDUzYjgxYzAzYzc1NzkwNGFlNjY4NjRkYThjYjVmNmUxNGNjNWVkN2Y3NGE2ZjYxNDRiMjdjOThiM2NkZjFiMmM4MTEzMGY2ZmE0NGE3ZWJlYzA4MTAzZjk5YmY2ZTIwMWY3YjhhMGVmNjY4M2Y0N2FjMmEzZTAzMjc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1609841013892,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
